@@ -1,0 +1,7 @@
+/data/
+/.atlas-download-*/
+/atlas.png
+/.venv/
+__pycache__/
+*.pyc
+*.zip

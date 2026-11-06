@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this versioned data release if you use the atlas. Also cite SPECTER2 and the original papers relevant to your analysis."
+type: dataset
+title: "Biomaterials Atlas: embeddings, metadata and topic maps"
+authors:
+  - family-names: Aymon
+    given-names: Bastien
+version: "2026-11-06"
+date-released: "2026-11-06"
+url: "https://github.com/bastenefg/biomaterials-atlas/releases/tag/data-2026-11-06"
+repository-code: "https://github.com/bastenefg/biomaterials-atlas"
+abstract: "Reusable SPECTER2 embeddings for 146,319 papers within a 150,060-record PubMed-indexed biomaterials collection, with bibliographic metadata, original-space neighbors, fixed 2D and 3D coordinates, and topic assignments. Corpus cutoff: 2026-10-22."
